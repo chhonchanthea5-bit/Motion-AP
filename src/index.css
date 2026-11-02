@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* Custom dark scrollbar matching Adobe CC & Animation Composer */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #121214;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b2b30;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+.custom-tree-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-tree-scrollbar::-webkit-scrollbar-thumb {
+  background: #25252a;
+}

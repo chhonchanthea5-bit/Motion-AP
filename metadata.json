@@ -1,0 +1,6 @@
+{
+  "name": "AE Master - Motion Graphics AI Powerhouse & Script Studio",
+  "description": "The all-in-one Adobe After Effects Technical Director & Expression Master powered by Gemini. Generate ExtendScript JSX, expressions, auto-rigging, timeline management, and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
